@@ -1,0 +1,14 @@
+	
+<script type="text/javascript" type="module" src="/js/pages.js" async="async"></script>
+
+<script type="module">
+	eval('console.log("hi")')
+
+	import {default as go} from '/js/index.js'
+	go()
+
+
+	
+</script>
+
+</body></html>
